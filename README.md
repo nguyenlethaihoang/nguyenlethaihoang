@@ -6,8 +6,8 @@
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenlethaihoang&count_private=true&theme=&theme=transparent&hide_rank=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nguyenlethaihoang&count_private=true&theme=&theme=transparent&hide_rank=false" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlethaihoang&layout=compact&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlethaihoang&layout=compact&langs_count=8" />
 </a>
